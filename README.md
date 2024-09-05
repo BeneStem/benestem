@@ -1,4 +1,4 @@
-#### Passionate software architect, full-stack developer and speaker
+#### CTO 👾 | Software Architect 🤓 | Full-Stack-Developer 🥷🏼 | Speaker 👨🏼‍🏫 | I help organizations accelerate their software development
 
 > "Statistics only work if the person evaluating them is, on average, more intelligent than chance. - Prof. Dr. Peter Kruse
 
