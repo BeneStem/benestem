@@ -4,7 +4,7 @@
 
 Driven by relentless curiosity, I dismantled my father's computer piece by piece when I was ten. Twenty years later, after working as a developer, software architect, and CTO, I found that enterprise development teams were becoming less productive despite having better tools. Experienced developers were frustrated with traditional approaches to prompt engineering for AI assistants.
 
-As an Agentic Software Engineer, I help CTOs overcome developer resistance to AI assistants by converting AI frustration into reliable productivity. Using context engineering and structured methodologies instead of prompt engineering enables developers to evolve from AI skeptics into confident experts and achieve 10x efficiency improvements while preserving programming joy.
+As an Agentic Software Engineer, I help CTOs overcome developer resistance to AI assistants by converting AI frustration into reliable productivity. Using context engineering and structured software engineering methodologies instead of prompt engineering enables developers to evolve from AI skeptics into confident experts and achieve 10x efficiency improvements while preserving programming joy.
 
 My enterprise experience spans [OTTO](https://www.otto.de/), [Breuninger](https://www.breuninger.com/de/), and [BLUME 2000](https://www.blume2000.de/), where I led 70+ developers and generated significant revenue impact through technical excellence. As CTO at [TalentFormation](https://www.talentformation.com/), I now focus on helping enterprise teams achieve systematic AI development through established context engineering practices. I'm also a founding member of [Hacker School](https://hacker-school.de/) and active in developer empowerment.
 
