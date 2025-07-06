@@ -8,7 +8,7 @@ As an Agentic Software Engineer, I help CTOs overcome developer resistance to AI
 
 My enterprise experience spans [OTTO](https://www.otto.de/), [Breuninger](https://www.breuninger.com/de/), and [BLUME 2000](https://www.blume2000.de/), where I led 70+ developers and generated significant revenue impact through technical excellence. As CTO at [TalentFormation](https://www.talentformation.com/), I now focus on helping enterprise teams achieve systematic AI development through established context engineering practices. I'm also a founding member of [Hacker School](https://hacker-school.de/) and active in developer empowerment.
 
-- I use daily: **AI Development** tools, **Systematic AI Development** practices and **Context Engineering** with `.kt`, `.js`, `.html`, `.css`
+- I use daily: **AI Development** tools, **Systematic AI Development** practices and **Context Engineering**
 - I'm mostly active within the **Agentic Software Engineering Community**
 - Build: [BLUME 2000](https://www.blume2000.de/), [Breuninger](https://www.breuninger.com/de/), etc…
 - `ping` me about **context engineering**, **developer AI resistance**, **systematic AI development**, **enterprise AI adoption**
