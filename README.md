@@ -10,7 +10,7 @@ My enterprise experience spans [OTTO](https://www.otto.de/), [Breuninger](https:
 
 - I work with: **Context Engineering**, **Agentic Practices** and **Team Transformation**
 - I'm building: The [hackers&wizards Community](https://hackersandwizards.dev/community) for senior developers
-- Ignited: [30+ Teams](https://hackersandwizards.dev/trainings), [15+ Elevated](https://hackersandwizards.dev/consulting), etc…
+- Ignited: [30+ Teams](https://hackersandwizards.dev/trainings), [15+ Elevated](https://hackersandwizards.dev/consulting)
 - `ping` me about **context engineering**, **agentic practices**, **developer AI resistance**, **enterprise AI adoption**
 
 <p>
