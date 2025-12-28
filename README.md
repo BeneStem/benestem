@@ -9,8 +9,8 @@ As founder of [hackers&wizards](https://hackersandwizards.dev), I help engineeri
 My enterprise experience spans [OTTO](https://www.otto.de/), [Breuninger](https://www.breuninger.com/de/), and [BLUME 2000](https://www.blume2000.de/), where I led 70+ developers and generated significant revenue impact through technical excellence. Today I focus on helping engineering teams evolve from writing code to guarding its health. I'm also a founding member of [Hacker School](https://hacker-school.de/) and active in developer empowerment.
 
 - I work with: **Context Engineering**, **Agentic Practices** and **Team Transformation**
-- I'm building: The **Agentic Engineering Community** for senior developers
-- Ignited: [30+ Teams](https://hackersandwizards.dev/trainings), [15+ Elevated](https://hackersandwizards.dev/consulting), etc…
+- I'm building: The [hackers&wizards Community](https://hackersandwizards.dev/community) for senior developers
+- Ignited: [30+ Teams](https://hackersandwizards.dev/trainings), [15+ Elevated](https://hackersandwizards.dev/consulting)
 - `ping` me about **context engineering**, **agentic practices**, **developer AI resistance**, **enterprise AI adoption**
 
 <p>
