@@ -1,6 +1,6 @@
-#### Transform AI Chaos into Systematic Practices | Agentic Engineering Advocate with 20+ Years Enterprise Leadership | Speaker with 40+ Conference Talks
+#### Help Engineering Teams Thrive with AI | Agentic Engineering Advocate with 20+ Years CTO/Architect | Speaker with 40+ Conference Talks
 
-> Faster Delivery. Better Code. Happier Devs. - hackers&wizards
+> Faster Delivery. Better Code. Fulfilled Teams. - hackers&wizards
 
 Driven by relentless curiosity, I dismantled my father's computer piece by piece when I was ten. Twenty years later, after working as a developer, software architect, and CTO, I found that engineering teams were fracturing under scattered AI adoption. Senior developers refused to touch AI, calling it "not real engineering." Early adopters worked in isolation creating code nobody else could maintain.
 
@@ -10,7 +10,7 @@ My enterprise experience spans [OTTO](https://www.otto.de/), [Breuninger](https:
 
 - I work with: **Context Engineering**, **Agentic Practices** and **Team Transformation**
 - I'm building: The [hackers&wizards Community](https://hackersandwizards.dev/community) for senior developers
-- Ignited: [30+ Teams](https://hackersandwizards.dev/trainings), [15+ Elevated](https://hackersandwizards.dev/consulting)
+- Ignited: [30+ Teams](https://hackersandwizards.dev/trainings), [15+ Elevated](https://hackersandwizards.dev/consulting), etc…
 - `ping` me about **context engineering**, **agentic practices**, **developer AI resistance**, **enterprise AI adoption**
 
 <p>
