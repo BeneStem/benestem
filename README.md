@@ -17,6 +17,7 @@ My enterprise experience spans [OTTO](https://www.otto.de/), [Breuninger](https:
   <samp>
     <a href="mailto:benedikt@hackersandwizards.dev">email</a> •
     <a href="https://www.linkedin.com/in/benedikt-stemmildt/">linkedin</a> •
-    <a href="https://hackersandwizards.dev">website</a>
+    <a href="https://benedikt.stemmildt.com">personal website</a> •
+    <a href="https://www.hackersandwizards.dev">company website</a>
   </samp>
 </p>
